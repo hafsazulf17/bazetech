@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<root>
+  <themes>
+    <id><![CDATA[36891241]]></id>
+    <name><![CDATA[Kalles - Clean minimal Magento 2 theme]]></name>
+    <des><![CDATA[You need install theme before use importer. Importing demo data is the easiest way to setup your theme. It will allow you to quickly edit everything. You can select import theme for each store view. Reload storefront after imported.]]></des>
+    <home>
+      <title><![CDATA[Default]]></title>
+      <identifier><![CDATA[demo_fashion_1]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_1.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_1]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 02]]></title>
+      <identifier><![CDATA[demo_fashion_2]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_2.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_2]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 03]]></title>
+      <identifier><![CDATA[demo_fashion_3]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_3.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_3]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 04]]></title>
+      <identifier><![CDATA[demo_fashion_4]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_4.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_4]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 05]]></title>
+      <identifier><![CDATA[demo_fashion_5]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_5.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_5]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 06]]></title>
+      <identifier><![CDATA[demo_fashion_6]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_6.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_6]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 07]]></title>
+      <identifier><![CDATA[demo_fashion_7]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_7.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_7]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 08]]></title>
+      <identifier><![CDATA[demo_fashion_8]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_8.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_8]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 09]]></title>
+      <identifier><![CDATA[demo_fashion_9]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_9.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_9]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 10]]></title>
+      <identifier><![CDATA[demo_fashion_10]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_10.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_10]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 11]]></title>
+      <identifier><![CDATA[demo_fashion_11]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_11.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_11]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 12]]></title>
+      <identifier><![CDATA[demo_fashion_12]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_12.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_12]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Fashion 13]]></title>
+      <identifier><![CDATA[demo_fashion_13]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_fashion_13.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_fashion_13]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Megastore]]></title>
+      <identifier><![CDATA[demo_megastore_1]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_megastore_1.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_megastore_1]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Bra]]></title>
+      <identifier><![CDATA[demo_bra_1]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_bra_1.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_bra_1]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Megamog]]></title>
+      <identifier><![CDATA[demo_megamog_1]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_megamog_1.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_megamog_1]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Supergear]]></title>
+      <identifier><![CDATA[demo_supergear_1]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_supergear_1.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_supergear_1]]></linkpreview>
+    </home>
+    <home>
+      <title><![CDATA[Activewear]]></title>
+      <identifier><![CDATA[demo_activewear_1]]></identifier>
+      <image><![CDATA[blueskytechmage.com/preview/kalles/demo_activewear_1.jpg]]></image>
+      <linkpreview><![CDATA[blueskytechmage.com/kalles/demo_activewear_1]]></linkpreview>
+    </home>
+  </themes>
+</root>
